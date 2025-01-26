@@ -56,6 +56,6 @@ The implementation highlights lane lines in yellow (right lane) and white (left 
 - Integration with real-time video streams.
 - Improved robustness under varying lighting and weather conditions.
 
-## Credits
-This project is inspired by basic computer vision principles and serves as an introductory application for detecting road features.
+## Colaaboration.
+If you find any issue in this project feel free to open an issue. if you want to collaborate in this project you can fork this repository.
 
